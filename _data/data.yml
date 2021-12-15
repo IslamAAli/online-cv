@@ -114,7 +114,7 @@ publications:
         authors: Islam Ali, Hong Zhang
         conference: Poster Presentation at the Annual Group Meeting of The NSERC Canadian Robotics Network (NCRN-AGM 2021), Virtual Conference, May 2021. 
 
-      - title: PL-VINS\: Real-Time Monocular Visual-Inertial SLAM with Point and Line Features.
+      - title: PL-VINS &#58; Real-Time Monocular Visual-Inertial SLAM with Point and Line Features.
         link: "#"
         authors: Quang Fu, Jialong W., Hongshan Yu, Islam Ali, Feng Guo, Yijia He, and Hong Zhang
         conference: arXiv preprint arXiv:2009.07462 (2020).
@@ -132,7 +132,7 @@ publications:
         conference: U.S. Provisional/Pending Patent   Ser. No. 62/631767, filed February 17, 2018, and renewed in February 2019. 
         
         
-      - title: VO-Sim: A Generic Framework for Tuning and Evaluating Visual Odometry Systems
+      - title: VO-Sim &#58; A Generic Framework for Tuning and Evaluating Visual Odometry Systems
         link: "#"
         authors: Islam Alaa, Amr Wassal
         conference: Proceedings of IEEE/ION Position, Location, and Navigation Symposium (PLANS 2018), Monterey, CA, April 2018, pp. 432-439. 
