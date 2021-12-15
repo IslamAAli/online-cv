@@ -107,25 +107,53 @@ experiences:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro: 
     papers:
-      - title: The Art of Computer Programming
+      - title: Are We Ready for The Robust SLAM Era? A Framework for Quantitative Analysis of SLAM Datasets.
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Islam Ali, Hong Zhang
+        conference: Poster Presentation at the Annual Group Meeting of The NSERC Canadian Robotics Network (NCRN-AGM 2021), Virtual Conference, May 2021. 
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: PL-VINS: Real-Time Monocular Visual-Inertial SLAM with Point and Line Features.
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
+        authors: Quang Fu, Jialong W., Hongshan Yu, Islam Ali, Feng Guo, Yijia He, and Hong Zhang
+        conference: arXiv preprint arXiv:2009.07462 (2020).
+        
+        
+      - title: A Novel Unscented Kalman Filter Strategy to Enhance Navigation System Performance
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: M. Mahmoud, I. Alaa, A. Wassal, A. Noureldin
+        conference: International Journal of Recent Technology and Engineering (IJRTE), vol. 8, Issue. 5, pp. 2446–2453, January. 2020. (DOI:10.35940/ijrte.E5649.018520) 
+        
+        
+      - title: Multi-Rate Algorithm for Visual Odometry
+        link: "#"
+        authors: Islam Alaa, Amr Wassal
+        conference: U.S. Provisional/Pending Patent   Ser. No. 62/631767, filed February 17, 2018, and renewed in February 2019. 
+        
+        
+      - title: VO-Sim: A Generic Framework for Tuning and Evaluating Visual Odometry Systems
+        link: "#"
+        authors: Islam Alaa, Amr Wassal
+        conference: Proceedings of IEEE/ION Position, Location, and Navigation Symposium (PLANS 2018), Monterey, CA, April 2018, pp. 432-439. 
+        
+        
+      - title: A Dual-Channel CAMShift Algorithm for Embedded Real-Time wVisual Servoing Applications
+        link: "#"
+        authors: Islam Alaa, Amr Wassal, Omar Rayan, Osama Rashad, Amr ElDieb
+        conference: Proceedings of the 10th International Conference on Mobile Mapping Technology (MMT), Cairo, Egypt, May 2017, pp 42-47 
+        
+        
+      - title: Tuning of The Error Covariance Parameters in EKF-Based INS/GPS Systems: A Practical Approach
+        link: "#"
+        authors: Mostafa Mahmoud, Islam Alaa, Amr Wassal, Aboelmagd Noureldin, Amr ElDieb
+        conference: Proceedings of the 10th International Conference on Mobile Mapping Technology (MMT), Cairo, Egypt, May 2017, pp 42-47 
+        
+        
+      - title: A High-Performance Self-Clocked Digital-Output Quartz Gyroscope
+        link: "#"
+        authors: Ayman Ismail, Khaled Ashraf, Ahmed Metawea, Islam Mostfa, Ahmed Saeed, Eslam Helal, Mostafa Essawy, Mohamed Abdelazim, Mostafa Ibrahim, Ramy Raafat, Eslam Abdelbary, Islam Alaa, Marawan Nabil, Abdelrahman Mansour, Bassem Ibrahim, Ayman Elsayed
+        conference: Proceedings of IEEE Sensors Conference, Busan, Korea, 2015
 
 skills:
     title: Skills &amp; Proficiency
