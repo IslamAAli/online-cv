@@ -54,28 +54,18 @@ career-profile:
       and Autonomous Systems. Possess a considerable experience in working on highly innovative R&D and industrial projects 
       and in leading multi-disciplinary teams. 
 education:
+    - degree: PhD in Computing Science
+      university: University of Alberta
+      time: 2019 - Present
+      
     - degree: MSc in Computer Engineering
       university: Cairo University
       time: 2014 - 2018
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
     - degree: BSc in Computer Engineering
       university: Cairo University
       time: 2008 - 2013
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
 experiences:
     - role: Lead Developer
       time: 2015 - Present
