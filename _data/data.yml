@@ -67,43 +67,55 @@ education:
       time: 2008 - 2013
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Graduate Research/Teaching Assistant,
+      time: Sept. 2019 - Present
+      company: University of Alberta, Edmonton, Canada
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Conducting research at the Robotics/Vision Lab on resilient SLAM algorithms for autonomous robotics.
+          - Teaching assistant of undergraduate course at the department of computing science. 
+          
+    - role: Staff Design Engineer, Systems Design Group
+      time: April 2018 – Aug. 2019 
+      company: Si-Ware Systems, Cairo, Egypt
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        - Technical lead/Project Manager of multiple highly innovative projects in the fields of inertial stabilization, visual tracking, and spectral material analysis and chemometrics.  
+    
+    - role: Senior Design Engineer, Systems Design Group
+      time: April 2016 – April 2018
+      company: Si-Ware Systems, Cairo, Egypt
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Full design, modeling, implementation, and testing of an orientation estimation algorithm based on inertial sensing and using cascaded Extended Kalman Filters for inertial stabilization platforms.
+          - Contribution in formulating and deploying a multi-core bare-metal architecture for real-time applications.
+          - Complete HW/SW design of a visual tracking system integrated with an inertial stabilization platform.
+          - Successful definition, execution, and leading projects’ deployment plans at international customers’ sites. 
+          
+    - role: Digital IC Design Engineer, Digital Design Group 
+      time: Aug. 2013 – April 2016
+      company: Si-Ware Systems, Cairo, Egypt
+      details: |
+          - Contribution in the design and development of seven highly innovative sensors’ ASIC interfacing tape-out.
+          - Definition, design, modeling, implementation, integration, and testing of a wide spectrum of digital blocks.  
+          
+    - role: Digital IC Design Intern, Digital Design Group  
+      time: July. 2012 – Sept. 2012
+      company: Si-Ware Systems, Cairo, Egypt
+      details: |
+          - Definition, design, implementation, testing, and evaluation of DSP Core.
+          - Design optimization for hardware acceleration of digital filters execution.  
+          
+    - role: Freelance Software Engineer  
+      time: Aug. 2011 – Nov. 2012
+      company: vWorker.com / Freelancer.com / Private Contracts, Online
+      details: |
+          - Ranked as Top Worker for efficiently completing over 32 projects covering a wide range of technologies.
+          - Worked on three enterprise-level web apps covering the full pipeline of software engineering. 
+          
+    - role: Software Development Engineering Intern, Open-Source Development Team 
+      time: Aug. 2013 – April 2016
+      company: Sumerge Enterprise Solutions, Cairo, Egypt
+      details: |
+          - Worked on the “My Artwork Manager” enterprise project throughout different project phases.
+          - Efficient usage of open-source web development tools for project implementation. 
 
 publications:
     title: Publications
@@ -155,24 +167,4 @@ publications:
         authors: Ayman Ismail, Khaled Ashraf, Ahmed Metawea, Islam Mostfa, Ahmed Saeed, Eslam Helal, Mostafa Essawy, Mohamed Abdelazim, Mostafa Ibrahim, Ramy Raafat, Eslam Abdelbary, Islam Alaa, Marawan Nabil, Abdelrahman Mansour, Bassem Ibrahim, Ayman Elsayed
         conference: Proceedings of IEEE Sensors Conference, Busan, Korea, 2015
 
-skills:
-    title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
